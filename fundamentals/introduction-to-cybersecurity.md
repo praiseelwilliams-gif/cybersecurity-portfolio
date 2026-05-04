@@ -1,7 +1,7 @@
-Introduction to Cybersecurity – Notes
+#Introduction to Cybersecurity – Notes
 Overview
 
-This note summarizes key foundational concepts in cybersecurity, including types of data, the McCumber Cube framework, and common indicators of phishing attacks.
+##This note summarizes key foundational concepts in cybersecurity, including types of data, the McCumber Cube framework, and common indicators of phishing attacks.
 
 Types of Data
 1. Traditional Data
